@@ -75,13 +75,7 @@ Hi, I'm **Olivia** 👋 — an Android developer who cares about clean architect
 <br />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Olivia0007d&theme=tokyonight&hide_border=true&currStreakLabel=7aa2f7&sideLabels=7aa2f7&ring=7aa2f7&fire=7dcfff" width="98%" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Olivia0007d&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" width="98%" />
+  <img src="https://streak-stats.demolab.com?user=Olivia0007d&theme=tokyonight&hide_border=true&currStreakLabel=7aa2f7&sideLabels=7aa2f7&ring=7aa2f7&fire=7dcfff" width="98%" />
 </div>
 
 ---
@@ -91,12 +85,8 @@ Hi, I'm **Olivia** 👋 — an Android developer who cares about clean architect
 ### 🐍 Contribution Activity Stream
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Olivia0007d/Olivia0007d/output/github-contribution-grid-snake.svg" alt="Snake animation" onerror="this.src='https://github-readme-activity-graph.vercel.app/graph?username=Olivia0007d&theme=tokyonight&hide_border=true&area=true&custom_title=Olivia%27s%20Contribution%20Graph'" width="100%" />
+  <img src="https://raw.githubusercontent.com/Olivia0007d/Olivia0007d/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
 </p>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Olivia0007d&theme=tokyonight&hide_border=true&area=true&custom_title=Olivia%27s%20Contribution%20Graph" width="98%" />
-</div>
 
 ---
 
@@ -104,11 +94,7 @@ Hi, I'm **Olivia** 👋 — an Android developer who cares about clean architect
 
 ### 🚀 Projects
 
-<div align="center">
-  <a href="https://github.com/Olivia0007d/notepad">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Olivia0007d&repo=notepad&theme=tokyonight&hide_border=true&title_color=7aa2f7&icon_color=7dcfff" />
-  </a>
-</div>
+- **📝 [notepad](https://github.com/Olivia0007d/notepad)** — a Kotlin-based Android notepad app.
 
 ---
 
