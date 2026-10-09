@@ -68,8 +68,8 @@ Hi, I'm **Olivia** 👋 — an Android developer who cares about clean architect
 ### 📈 GitHub Analytics & Productivity Dashboard
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Olivia0007d&show_icons=true&theme=tokyonight&hide_border=true&title_color=7aa2f7&icon_color=7dcfff&include_all_commits=true&count_private=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Olivia0007d&layout=compact&theme=tokyonight&hide_border=true&title_color=7aa2f7&langs_count=8" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Olivia0007d&theme=tokyonight" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Olivia0007d&theme=tokyonight" width="49%" />
 </div>
 
 <br />
