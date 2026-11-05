@@ -94,7 +94,20 @@ Hi, I'm **Olivia** 👋 — an Android developer who cares about clean architect
 
 ### 🚀 Projects
 
-- **📝 [notepad](https://github.com/Olivia0007d/notepad)** — a Kotlin-based Android notepad app.
+**📝 [notepad](https://github.com/Olivia0007d/notepad)** — *Elite Memo Pro*, a local-first Android notes app.
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" />
+  <img src="https://img.shields.io/badge/Room-3DDC84?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" />
+</p>
+
+Text notes with inline checklists, freehand drawing with pen, marker, highlighter, selection and eraser tools, and labels, colours, pins, search, reminders, archive and trash to keep it all organised.
+
+- **Local-first by design** — notes and settings live in an on-device Room database and DataStore. No account, no server, no `INTERNET` permission.
+- **Multi-module build** — Kotlin and Jetpack Compose (Material 3) across `app`, `core`, `data`, `domain` and `features`.
+- **Beyond the basics** — a home-screen task widget, backup and restore to a folder you choose, and unit tests around the note and backup logic.
 
 ---
 
